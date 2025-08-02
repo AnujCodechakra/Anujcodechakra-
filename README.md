@@ -53,11 +53,31 @@
 
 ---
 
-## 📫 Connect with Me
+## 🎯 2025 Goals
+
+- 🌱 Master Java and Spring Boot for backend development  
+- 🚀 Build and launch a Full-Stack Mental Wellness App  
+- 💻 Practice and improve Data Structures & Algorithms  
+- 🌐 Contribute to Open Source projects  
+- 🤝 Network and collaborate with developers worldwide  
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:anujs51707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anujs51707@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -66,4 +86,27 @@
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=wave&text1=Hello,%20I'm%20Anuj%20✨&width=1000&height=200" alt="Banner" />
+</p> 
+
+---
+
+## 🌟 Quote of the Day
+
+> *“Your time is limited, so don’t waste it living someone else’s life.”*  
+> — **Steve Jobs**
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anujcodechakra&label=VISITORS&style=flat-square&color=brightgreen" alt="Visitor Count" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="Thanks GIF"/>
+</p>
+
+<h3 align="center">Thanks for visiting! 🚀 Let's build something amazing together.</h3>
