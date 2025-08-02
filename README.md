@@ -4,6 +4,20 @@
 </h2>
 <h3 align="center">💻 Passionate Beginner Developer | Learner | Creator</h3>
 
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Anuj+%F0%9F%91%8B;Java+Dev+in+Progress+%F0%9F%9A%80;Tech+Explorer+%F0%9F%9A%80;Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
+</h4>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&width=1000&height=180&text1=Welcome+to+Anuj's+World+🌟" alt="Welcome Banner" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+learning+new+tech;Follow+me+on+my+coding+journey!;Let's+build+something+great!" alt="Typing SVG" />
 </p>
