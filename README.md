@@ -1,4 +1,5 @@
 # Anujcodechakra-
+![Banner](https://your-image-url.com/banner.png)
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">💻 Passionate Beginner Developer | Learner | Creator</h3>
 
