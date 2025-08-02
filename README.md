@@ -9,7 +9,12 @@
 </p>
 
 <p align="center">
-  < https://blog.runcloud.io/wp-content/uploads/2021/06/what-is-github.png" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&width=1000&height=180&text1=Welcome+to+Anuj's+World+🌟" alt="Welcome Banner" />
+</p>
+
+<!-- 🎉 Added Banner Image (replace with your actual image URL if needed) -->
+<p align="center">
+  <img src="assets/github-banner.png" alt="GitHub Getting Started Banner" width="800"/>
 </p>
 
 ---
@@ -86,7 +91,7 @@
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=wave&text1=Hello,%20I'm%20Anuj%20✨&width=1000&height=200" alt="Banner" />
-</p> 
+</p>
 
 ---
 
