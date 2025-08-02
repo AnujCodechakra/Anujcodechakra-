@@ -8,7 +8,7 @@
 
 ---
 
-<img src="https://svg-banners.vercel.app/api?type=rainbow&width=1000&height=200&text1=Welcome%20to%20Anuj's%20World%20%F0%9F%8C%9F" alt="Rainbow Banner" />
+<img src="https://svg-banners.vercel.app/api?type=rainbow&width=1000&height=200&text1=Welcome%20to%20Anujcodechakra's%20World%20%F0%9F%8C%9F" alt="Rainbow Banner" />
 
 ---
 
