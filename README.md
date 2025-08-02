@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&width=1000&height=180&text1=Welcome+to+Anujcodechakra's+World+🌟" alt="Welcome Banner" />
+  < https://blog.runcloud.io/wp-content/uploads/2021/06/what-is-github.png" />
 </p>
 
 ---
