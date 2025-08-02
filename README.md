@@ -1,5 +1,7 @@
 # Anujcodechakra
 <h1 align="center">Hi 👋, I'm Anuj</h1>
+<h2 align="Banner"<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Anuj+%F0%9F%91%8B;Java+Dev+in+Progress+%F0%9F%9A%80;Tech+Explorer+%F0%9F%9A%80;Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
+</h2>
 <h3 align="center">💻 Passionate Beginner Developer | Learner | Creator</h3>
 
 <p align="center">
