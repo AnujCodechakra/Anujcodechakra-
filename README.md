@@ -1,16 +1,22 @@
 # Anujcodechakra
-<h1 align="center">Hi 👋, I'm Anuj</h1>
-<h3 align="center">💻 Passionate Beginner Developer | Learner | Creator</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Anuj+%F0%9F%91%8B;Java+Dev+in+Progress+%F0%9F%9A%80;Tech+Explorer+%F0%9F%9A%80;Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+learning+new+tech;Follow+me+on+my+coding+journey!;Let's+build+something+great!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&width=1000&height=180&text1=Welcome+to+Anuj's+World+🌟" alt="Welcome Banner" />
 </p>
 
 ---
 
-### 🧰 Languages and Tools:
+## 🧰 Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -19,7 +25,7 @@
 
 ---
 
-### 📈 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anujcodechakra&show_icons=true&theme=radical" />
@@ -28,16 +34,17 @@
 
 ---
 
-### 📫 Connect with me:
+## 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:anujs51707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🌀 Fun SVG Animation
+## 🌀 Fun SVG Animation
 
-<img src="https://svg-banners.vercel.app/api?type=wave&text1=Hello,%20I'm%20Anuj%20✨&width=1000&height=200" alt="Banner" />
- m
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=wave&text1=Hello,%20I'm%20Anuj%20✨&width=1000&height=200" alt="Banner" />
+</p>
