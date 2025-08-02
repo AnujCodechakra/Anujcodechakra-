@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&width=1000&height=180&text1=Welcome+to+Anujcodechekra's+World+🌟" alt="Welcome Banner" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&width=1000&height=180&text1=Welcome+to+Anuj's+World+🌟" alt="Welcome Banner" />
 </p>
 
 ---
@@ -30,6 +30,25 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anujcodechakra&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anujcodechakra&theme=radical" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anujcodechakra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anujcodechakra&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujcodechakra&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anujcodechakra&theme=algolia&no-frame=true&row=2&column=4" />
 </p>
 
 ---
