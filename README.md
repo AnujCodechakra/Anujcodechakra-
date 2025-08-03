@@ -25,7 +25,7 @@
 
 ---
 ### 📒🖇️ ideas which i like to work 
-
+---
 ### 📲 App Ideas (Wellness, Learning, Gaming)
 
 - 🧘 ZenMind App – Tracks your mood & habits with EEG sync  
