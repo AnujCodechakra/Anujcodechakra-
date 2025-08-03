@@ -24,24 +24,7 @@
 </p>
 
 ---
-
-## 🚀 My Visionary Projects & Fictional Features
-
-### 🧠 AI & Smart Dev Tools
-
-- 🤖 AutoMentor AI – AI that guides your Java backend journey  
-- 📚 CodeSummarizer AI – Summarizes long Java files for quick reference  
-- 🧠 CognitiveDSA – AI-curated DSA challenges  
-- 📈 TrendSense – GitHub data & trends analyzer using NLP  
-- 💬 SmartDocs – Auto-generated documentation from code  
-
-### 🛠️ DevTools & Utilities
-
-- 🛠️ BugZero – Real-time intelligent Java bug fixer  
-- ☕ JarManager Pro – One-click Java JAR optimizer  
-- 🧪 PredictiveCommit – Suggest commit messages using your coding style  
-- 🕵️ VulnScan 360 – Smart security scanner  
-- 🧬 CodeDNA – Detects plagiarism using advanced signature tracking  
+### 📒🖇️ ideas which i like to work 
 
 ### 📲 App Ideas (Wellness, Learning, Gaming)
 
