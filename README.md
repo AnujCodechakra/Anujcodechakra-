@@ -12,13 +12,6 @@
   <img src="https://svg-banners.vercel.app/api?type=rainbow&width=1000&height=180&text1=Welcome+to+Anuj's+World+🌟" alt="Welcome Banner" />
 </p>
 
-<!-- 🎉 Added Banner Image (replace with your actual image URL if needed) -->
-<p align="center">
-  <img src="assets/github-banner.png" alt="GitHub Getting Started Banner" width="800"/>
-</p>
-
----
-
 ## 🧰 Languages and Tools
 
 <p align="center">
